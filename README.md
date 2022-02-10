@@ -27,10 +27,6 @@ The curriculum contains:
 
 ...and more.
 
-<br/>
-<br/>
-<br/>
-
 # Trybe Curriculum
 
 ## Introduction - Fundamentals of Web Development :heavy_check_mark:
