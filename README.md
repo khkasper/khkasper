@@ -48,7 +48,7 @@ The curriculum contains:
 - 3.2: HTML & CSS - First steps in CSS
 - 3.3: HTML & CSS - Selectors and positioning
 - 3.4: Semantic HTML
-- 3.5: [Project - Lessons Learned](https://github.com/tryber/sd-014-a-project-lessons-learned/)
+- 3.5: Project - Lessons Learned :heavy_check_mark:
 
 ##### Unit 4: Introduction to JavaScript and Programming Logic
 
@@ -56,7 +56,7 @@ The curriculum contains:
 - 4.2: JavaScript - Array and for loops
 - 4.3: JavaScript - Programming logic and algorithms
 - 4.4: JavaScript - Objects and functions
-- 4.5: [Project - Playground Functions](https://github.com/tryber/sd-014-a-project-playground-functions/)
+- 4.5: Project - Playground Functions :heavy_check_mark:
 
 ##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage
 
@@ -64,11 +64,11 @@ The curriculum contains:
 - 5.2: JavaScript - Working with elements
 - 5.3: JavaScript - Events
 - 5.4: JavaScript - Web Storage
-- 5.5: [Project - Art with Pixels](https://github.com/tryber/sd-014-a-project-pixels-art/)
-- 5.6: [Project - Task List](https://github.com/tryber/sd-014-a-project-todo-list/)
-- 5.7: [(Bonus) Project - Meme Generator](https://github.com/tryber/sd-014-a-project-meme-generate/)
-- 5.7: [(Bonus) Project - Gess the Color](https://github.com/tryber/sd-014-a-project-color-guess/)
-- 5.7: [(Bonus) Project - Mysterious Letter](https://github.com/tryber/sd-014-a-project-mistery-letter/)
+- 5.5: Project - Art with Pixels :heavy_check_mark:
+- 5.6: Project - Task List :heavy_check_mark:
+- 5.7: (Bonus) Project - Meme Generator :heavy_check_mark:
+- 5.7: (Bonus) Project - Gess the Color :heavy_check_mark:
+- 5.7: (Bonus) Project - Mysterious Letter :heavy_check_mark:
 
 ##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive
 
@@ -77,14 +77,14 @@ The curriculum contains:
 - 6.3: CSS Flexbox - Part 1
 - 6.4: CSS Flexbox - Part 2
 - 6.5: CSS Responsive - Mobile First
-- 6.6: [Project - Trybewarts](https://github.com/tryber/sd-014-a-project-trybewarts/)
+- 6.6: Project - Trybewarts :heavy_check_mark:
 
 ##### Unit 7: JavaScript ES6 & Unit Tests
 
 - 7.1: JavaScript ES6 - let, const, arrow functions and template literals
 - 7.2: JavaScript ES6 - Objects
 - 7.3: Unit tests in JavaScript
-- 7.4: [Project - JavaScript Unit Tests](https://github.com/tryber/sd-014-a-project-js-unit-tests/)
+- 7.4: Project - JavaScript Unit Tests :heavy_check_mark:
 
 ##### Unit 8: JavaScript ES6
 
@@ -93,20 +93,20 @@ The curriculum contains:
 - 8.3: JavaScript ES6 - Higher Order Functions - map and filter
 - 8.4: JavaScript ES6 - Higher Order Functions - reduce
 - 8.5: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
-- 8.6: [Project - Zoo functions](https://github.com/tryber/sd-014-a-project-zoo-functions/)
+- 8.6: Project - Zoo functions :heavy_check_mark:
 
 ##### Unit 9: Asynchronicity & Callbacks
 
 - 9.1: Asynchronous JavaScript and Callbacks
 - 9.2: JavaScript Promises
-- 9.3: [Project - Shopping Cart](https://github.com/tryber/sd-014-a-project-shopping-cart/)
+- 9.3: Project - Shopping Cart :heavy_check_mark:
 
 ##### Unit 10: Automated Tests with Jest
 
 - 10.1: First steps on Jest
 - 10.2: Jest - Asynchronous tests
 - 10.3: Jest - Simulating behaviors
-- 10.4: [Project - Asynchronous Jest and Mocking](https://github.com/tryber/sd-014-a-project-jest/)
+- 10.4: Project - Asynchronous Jest and Mocking :heavy_check_mark:
 
 ## Front-end Development :heavy_check_mark:
 
@@ -114,31 +114,31 @@ The curriculum contains:
 
 - 11.1: 'Hello, world!' on React!
 - 11.2: React Components
-- 11.3: [Project - Movie Cards Library](https://github.com/tryber/sd-014-a-project-movie-cards-library/)
+- 11.3: Project - Movie Cards Library :heavy_check_mark:
 
 ##### Unit 12: Componets with State, Events and Forms with React
 
 - 12.1: Components with states and events
 - 12.2: Forms on React
-- 12.3: [Project - Movie Cards Library Stateful](https://github.com/tryber/sd-014-a-project-movie-cards-library-stateful/)
+- 12.3: Project - Movie Cards Library Stateful :heavy_check_mark:
 
 ##### Unit 13: Components Life Cycle and React Router
 
 - 13.1: Components Life Cycle on React
 - 13.2: React Router
-- 13.3: [Project - TrybeTunes](https://github.com/tryber/sd-014-a-project-trybetunes/)
+- 13.3: Project - TrybeTunes :heavy_check_mark:
 
 ##### Unit 14: Agile Methodologies
 
 - 14.1: Agile Methodologies
-- 14.2: [Project - Frontend Online Store](https://github.com/tryber/sd-014-a-project-frontend-online-store/tree/main-group-1/)
+- 14.2: Project - Frontend Online Store :heavy_check_mark:
 
 ##### Unit 15: Automated Tests with React Testing Library
 
 - 15.1: RTL - First steps
 - 15.2: RTL - Mocks and Inputs
 - 15.3: RTL - Testing React Router
-- 15.4: [Project - Tests on React](https://github.com/tryber/sd-014-a-project-react-testing-library/)
+- 15.4: Project - Tests on React :heavy_check_mark:
 
 ##### Unit 16: State Management with Redux
 
@@ -147,22 +147,22 @@ The curriculum contains:
 - 16.3: React with Redux - Pratice
 - 16.4: React with Redux - Asynchronous Actions
 - 16.5: Synchronous tests with React-Redux
-- 16.6: [Project - Trybe Wallet](https://github.com/tryber/sd-014-a-project-trybewallet/)
+- 16.6: Project - Trybe Wallet :heavy_check_mark:
 
 ##### Unit 17: Project Trivia Game
 
-- 17.1: [Project - Trivia Game](https://github.com/tryber/sd-014-a-project-trivia-react-redux/tree/main-group-12/)
+- 17.1: Project - Trivia Game :heavy_check_mark:
 
 ##### Unit 18: React Hooks & Context API
 
 - 18.1: React's Context API
 - 18.2: React Hooks - useState and useContext
 - 18.3: React Hooks - useEffect and customized Hooks
-- 18.4: [Project - StarWars Datatable with Context API and Hooks](https://github.com/tryber/sd-014-a-project-starwars-planets-search/)
+- 18.4: Project - StarWars Datatable with Context API and Hooks :heavy_check_mark:
 
 ##### Unit 19: Final Project - Recipes App
 
-- 19.1: [Project - Recipes App](https://github.com/tryber/sd-014-a-project-recipes-app/tree/main-group-5/)
+- 19.1: Project - Recipes App :heavy_check_mark:
 
 ## Back-end Development :hourglass_flowing_sand:
  
@@ -172,7 +172,7 @@ The curriculum contains:
 - 20.1: Using containers - Docker
 - 20.2: Manipulation and Imaging in Docker
 - 20.3: Orchestrating Containers with Docker Compose
-- 20.4: [Project - Docker Todo-List](https://github.com/tryber/sd-014-a-project-docker-todo-list/)
+- 20.4: Project - Docker Todo-List :heavy_check_mark:
 
 ##### Unit 21: Introduction to SQL
 
@@ -181,14 +181,14 @@ The curriculum contains:
 - 21.2: Finding data in a database
 - 21.3: Filtering data specifically
 - 21.4: Handling tables
-- 21.5: [Project - All For One](https://github.com/tryber/sd-014-a-mysql-all-for-one/)
+- 21.5: Project - All For One :heavy_check_mark:
 
 ##### Unit 22: SQL Functions, Joins and Normalization
 
 - 22.1: Most used SQL Functions
 - 22.2: Simplifying JOINs
 - 22.3: Transforming ideas into a Database Model
-- 22.4: [Project - One For All](https://github.com/tryber/sd-014-a-mysql-one-for-all/)
+- 22.4: Project - One For All :heavy_check_mark:
 
 ##### Unit 23: Introduction to Web Development with NodeJS
 
@@ -198,7 +198,7 @@ The curriculum contains:
 - 23.3: Mocha, Chai and Sinon - Backend Testing with Node.js
 - 23.4: Express: HTTP with Node.js
 - 23.5: Express: Middlewares
-- 23.6: [Project - Talker Manager](https://github.com/tryber/sd-014-a-project-talker-manager/)
+- 23.6: Project - Talker Manager :heavy_check_mark:
 
 ##### Unit 24: NodeJS: Service Layer and Rest and Restful Architecture
 
@@ -207,7 +207,7 @@ The curriculum contains:
 - 24.2: Software Architecture - Controller and Service layer
 - 24.3: Web Architecture - Rest and Restful
 - 24.4: Software Architecture - Testing layers
-- 24.5: [Project - Store Manager](https://github.com/tryber/sd-014-a-store-manager/)
+- 24.5: Project - Store Manager :heavy_check_mark:
 
 ##### Unit 25: NodeJS: ORM and Autentication
 
@@ -216,14 +216,14 @@ The curriculum contains:
 - 25.2: ORM - Associations
 - 25.3: JWT - (JSON Web Token)
 - 25.4: Testing APIs with Integration Tests
-- 25.5: [Project - Blogs API](https://github.com/tryber/sd-014-a-project-blogs-api/)
+- 25.5: Project - Blogs API :heavy_check_mark:
 
 ##### Unit 26: Deployment
 
 - 26.1: Introduction to Deploy
 - 26.1: Infrastructure - Deploy with Heroku
 - 26.2: Deploy Docker & Heroku
-- 26.3: Project - Stranger Things
+- 26.3: Project - Stranger Things :heavy_check_mark:
 
 ##### Unit 27: TypeScript
 
