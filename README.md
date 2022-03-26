@@ -230,7 +230,7 @@ The curriculum contains:
 - 27.1: Introduction to TypeScript
 - 27.2: Static Typing and Generics
 - 27.3: Express with TypeScript
-- 27.4: Project - Trybe Smith
+- 27.4: Project - Trybe Smith :heavy_check_mark:
 
 ##### Unit 28: Object Oriented Programming (OOP) and SOLID
 
@@ -239,11 +239,11 @@ The curriculum contains:
 - 28.3: Polymorphism
 - 28.4: SOLID - Introduction and S, O & D principles
 - 28.5: TypeScript + Object Oriented Programming + SOLID
-- 28.6: Project - Trybers and Dragons
+- 28.6: Project - Trybers and Dragons :heavy_check_mark:
 
 ##### Unit 29: Project - TSC - Trybe Soccer Club
 
-- 29.1: Project - TSC - Trybe Soccer Club
+- 29.1: Project - TSC - Trybe Soccer Club :heavy_check_mark:
 
 ##### Unit 30: Introdution to MongoDB
 
@@ -252,63 +252,56 @@ The curriculum contains:
 - 30.2: Filter Operators
 - 30.3: Project - Data Flights
 
-##### Unit 31: MongoDB: Simple and Complex Updates
+##### Unit 31: MasterClass - VPS, CI/CD
 
-- 31.1: Simple Updates 
-- 31.2: Complex Updates - Arrays - Part 1
-- 31.3: Complex Updates - Arrays - Part 2
-- 31.4: Project - Commerce
+- 31.1: Day 1
+- 31.2: Day 2
 
-##### Unit 32: MasterClass - VPS, CI/CD
+##### Unit 32: Project Delivery App
 
-- 32.1: Day 1
-- 32.2: Day 2
-
-##### Unit 33: Project Delivery App
-
-- 33.1: Project - Delivery App
+- 32.1: Project - Delivery App
 
 ## Computer Science :closed_book:
 
-##### Unit 34: Introduction to Pyton
+##### Unit 33: Introduction to Pyton
 
-- 34.1: Introduction to Computer Science
-- 34.1: Learning Python
-- 34.2: Data Input and Output 
-- 34.3: Tests
-- 34.4: Project - Job Insights
+- 33.1: Introduction to Computer Science
+- 33.1: Learning Python
+- 33.2: Data Input and Output 
+- 33.3: Tests
+- 33.4: Project - Job Insights
 
-##### Unit 35: Object Oriented Programming and Project Patterns
+##### Unit 34: Object Oriented Programming and Project Patterns
 
-- 35.1: Introduction to Object Oriented Programming
-- 35.2: Inheritance, Composition and Interfaces
-- 35.3: Project patterns
-- 35.4: Project - Stock Report
+- 34.1: Introduction to Object Oriented Programming
+- 34.2: Inheritance, Composition and Interfaces
+- 34.3: Project patterns
+- 34.4: Project - Stock Report
 
-##### Unit 36: Networks and Data Scraping
+##### Unit 35: Networks and Data Scraping
 
-- 36.1: Network architecture
-- 36.2: Computer networks, tools and security
-- 36.3: Data Scraping
-- 36.4: Project - Tech news
+- 35.1: Network architecture
+- 35.2: Computer networks, tools and security
+- 35.3: Data Scraping
+- 35.4: Project - Tech news
 
-##### Unit 37: Algorithms
+##### Unit 36: Algorithms
 
-- 37.1: Algorithms complexity
-- 37.2: Recursion and problem-solving strategies
-- 37.3: Sorting and searching algorithms
-- 37.4: Project - Algorithms
+- 36.1: Algorithms complexity
+- 36.2: Recursion and problem-solving strategies
+- 36.3: Sorting and searching algorithms
+- 36.4: Project - Algorithms
 
-##### Unit 38: Data Scructure - Arrays, Hashmaps and Sets
+##### Unit 37: Data Scructure - Arrays, Hashmaps and Sets
 
-- 38.1: Computers architecture
-- 38.2: Arrays
-- 38.3: Hashmap & Dict
-- 38.4: Set
-- 38.5: Project - Restaurant Orders
+- 37.1: Computers architecture
+- 37.2: Arrays
+- 37.3: Hashmap & Dict
+- 37.4: Set
+- 37.5: Project - Restaurant Orders
 
-##### Unit 39: Data Structure: Stacks, Queues and Lists
+##### Unit 38: Data Structure: Stacks, Queues and Lists
 
-- 39.1: Nodes & Linked Lists
-- 39.2: Stacks and Rows
-- 39.3: Project - TING - Trybe Is Not Google
+- 38.1: Nodes & Linked Lists
+- 38.2: Stacks and Rows
+- 38.3: Project - TING - Trybe Is Not Google
