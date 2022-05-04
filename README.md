@@ -253,22 +253,22 @@ The curriculum contains:
 - 30.3: Consulting Operators
 - 30.4: Simple Updates
 - 30.5: Complex Updates - Arrays
-- 30.6: Project - Commerce
+- 30.6: Project - Commerce :heavy_check_mark:
  
 ##### Unit 31: MongoDB with Node.js and OOP
 
 - 31.1: MongoDB and MSC architecture
 - 31.2: MongoDB and OOP
-- 31.3: Project - Car Shop
+- 31.3: Project - Car Shop :heavy_check_mark:
 
-##### Unit 32: MasterClass - VPS, CI/CD
+##### Unit 32: Project Delivery App
 
-- 32.1: Day 1
-- 32.2: Day 2
+- 32.1: Project - Delivery App
+ 
+##### Unit 33: MasterClass - VPS, CI/CD
 
-##### Unit 33: Project Delivery App
-
-- 33.1: Project - Delivery App
+- 33.1: Day 1
+- 33.2: Day 2
 
 ## Computer Science :closed_book:
 
