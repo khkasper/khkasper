@@ -164,7 +164,7 @@ The curriculum contains:
 
 - 19.1: Project - Recipes App :heavy_check_mark:
 
-## Back-end Development :hourglass_flowing_sand:
+## Back-end Development :heavy_check_mark:
  
 ##### Unit 20: Docker: Using containers
 
@@ -263,14 +263,14 @@ The curriculum contains:
 
 ##### Unit 32: Project Delivery App
 
-- 32.1: Project - Delivery App
+- 32.1: Project - Delivery App :heavy_check_mark:
  
 ##### Unit 33: MasterClass - VPS, CI/CD
 
-- 33.1: Day 1
-- 33.2: Day 2
+- 33.1: VPS
+- 33.2: CI/CD
 
-## Computer Science :closed_book:
+## Computer Science :hourglass_flowing_sand:
 
 ##### Unit 34: Introduction to Pyton
 
