@@ -278,21 +278,20 @@ The curriculum contains:
 - 34.1: Learning Python
 - 34.2: Data Input and Output 
 - 34.3: Tests
-- 34.4: Project - Job Insights
+- 34.4: Project - Job Insights :heavy_check_mark:
 
 ##### Unit 35: Object Oriented Programming and Project Patterns
 
 - 35.1: Introduction to Object Oriented Programming
 - 35.2: Inheritance, Composition and Interfaces
 - 35.3: Project patterns
-- 35.4: Project - Stock Report
+- 35.4: Project - Stock Report :heavy_check_mark:
 
 ##### Unit 36: Networks and Data Scraping
 
-- 36.1: Network architecture
-- 36.2: Computer networks, tools and security
-- 36.3: Data Scraping
-- 35.4: Project - Tech news
+- 36.1: Network architecture, tools and security
+- 36.2: Data Scraping
+- 35.3: Project - Tech news
 
 ##### Unit 37: Algorithms
 
