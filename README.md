@@ -4,9 +4,7 @@ I'm passionate about technology, innovation, economy and business development.
 
 I have experience in human resources, marketing, administrative, commercial, business development and agile methodologies.
 
-#### Learning
-
--✨  I’m currently learning Full Stack Web Dev @ <a href="https://www.betrybe.com/">Trybe</a> (more info bellow).
+I learned Full Stack Web Dev @ <a href="https://www.betrybe.com/">Trybe</a> (more info bellow).
 
 #### Contact me
 
