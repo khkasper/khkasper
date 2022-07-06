@@ -291,14 +291,14 @@ The curriculum contains:
 
 - 36.1: Network architecture, tools and security
 - 36.2: Data Scraping
-- 35.3: Project - Tech news
+- 35.3: Project - Tech news :heavy_check_mark:
 
 ##### Unit 37: Algorithms
 
 - 37.1: Algorithms complexity
 - 37.2: Recursion and problem-solving strategies
 - 37.3: Sorting and searching algorithms
-- 36.4: Project - Algorithms
+- 36.4: Project - Algorithms :heavy_check_mark:
 
 ##### Unit 38: Data Scructure - Arrays, Hashmaps and Sets
 
