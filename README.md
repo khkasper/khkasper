@@ -298,16 +298,16 @@ The curriculum contains:
 - 37.3: Sorting and searching algorithms
 - 36.4: Project - Algorithms :heavy_check_mark:
 
-##### Unit 38: Data Scructure - Arrays, Hashmaps and Sets
+##### Unit 38: Data Scructure I: Arrays, Lists, Queues and Stacks
 
 - 38.1: Computers architecture
 - 38.2: Arrays
-- 38.3: Hashmap & Dict
-- 38.4: Set
-- 38.5: Project - Restaurant Orders
+- 38.3: Nodes & Linked Lists
+- 38.4: Stacks and Rows
+- 38.5: Project - TING - Trybe Is Not Google
 
-##### Unit 39: Data Structure: Stacks, Queues and Lists
+##### Unit 39: Data Structure II: Hashmaps and Sets
 
-- 39.1: Nodes & Linked Lists
-- 39.2: Stacks and Rows
-- 39.3: Project - TING - Trybe Is Not Google
+- 39.1: Hashmap & Dict
+- 39.2: Set
+- 39.3: Project - Restaurant Orders
