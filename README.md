@@ -304,7 +304,7 @@ The curriculum contains:
 - 38.2: Arrays
 - 38.3: Nodes & Linked Lists
 - 38.4: Stacks and Rows
-- 38.5: Project - TING - Trybe Is Not Google
+- 38.5: Project - TING - Trybe Is Not Google :heavy_check_mark:
 
 ##### Unit 39: Data Structure II: Hashmaps and Sets
 
