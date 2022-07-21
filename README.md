@@ -6,6 +6,8 @@ I have experience in human resources, marketing, administrative, commercial, bus
 
 I learned Full Stack Web Dev @ <a href="https://www.betrybe.com/">Trybe</a> (more info bellow).
 
+Currently, I'm studying software architecture and solutions @ <a href="https://xpeducacao.com/">XP Educação</a> 
+
 #### Contact me
 
 - 📫 You can find me on:
