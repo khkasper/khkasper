@@ -268,7 +268,7 @@ The curriculum contains:
 - 33.1: VPS
 - 33.2: CI/CD
 
-## Computer Science :hourglass_flowing_sand:
+## Computer Science :heavy_check_mark:
 
 ##### Unit 34: Introduction to Pyton
 
@@ -310,4 +310,4 @@ The curriculum contains:
 
 - 39.1: Hashmap & Dict
 - 39.2: Set
-- 39.3: Project - Restaurant Orders
+- 39.3: Project - Restaurant Orders :heavy_check_mark:
